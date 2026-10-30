@@ -75,4 +75,4 @@ deja `propio` porque es el que los estudiantes pueden leer entero.
 
 - Backend: https://ia-toolkit.geanella-cavieres.workers.dev/
 - Frontend: https://ia-toolkit-five.vercel.app/
-- MCP: https://ia-toolkit.<geanella-cavieres>.workers.dev/mcp
+- MCP: https://ia-toolkit.geanella-cavieres.workers.dev/mcp
